@@ -18,3 +18,13 @@
 .li-nav {
     list-style: none;
 }
+h1 {
+    display: flex;
+justify-content: center;
+align-content: center;
+margin: 0;
+width:50%;
+}
+.articoli {
+    margin: 0;
+}
