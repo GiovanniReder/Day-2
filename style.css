@@ -1,0 +1,20 @@
+.inizio-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+#logo {
+    width: 200px;
+    
+}
+
+#table {
+    border-collapse: collapse;
+    border: solid 2px black
+    
+}
+li {
+    list-style: none;
+}
